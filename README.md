@@ -2,7 +2,7 @@
 
 This is a fork of willfarrell/docker-autoheal that is simply being used with updated Apline base images to address idenitfied security vulnerabilities
 
-[![Known Vulnerabilities](https://snyk.io/test/github/{digilato}/{autoheal}/badge.svg?targetFile={path-to-target-file})](https://snyk.io/test/github/{digilato}/{docker-autoheal})
+[![Known Vulnerabilities](https://snyk.io/test/github/digilato/autoheal/badge.svg?targetFile={path-to-target-file})](https://snyk.io/test/github/digilato/docker-autoheal)
 
 Monitor and restart unhealthy docker containers. 
 This functionality was proposed to be included with the addition of `HEALTHCHECK`, however didn't make the cut.
